@@ -114,17 +114,10 @@ paper-dashboard-angular
 │   │   │   ├── typography
 │   │   │   │   ├── typography.component.html
 │   │   │   │   └── typography.component.ts
-│   │   │   ├── upgrade
-│   │   │   │   ├── upgrade.component.html
-│   │   │   │   └── upgrade.component.ts
 │   │   │   └── user
 │   │   │       ├── user.component.html
 │   │   │       └── user.component.ts
 │   │   ├── shared
-│   │   │   ├── fixedplugin
-│   │   │   │   ├── fixedplugin.component.html
-│   │   │   │   ├── fixedplugin.component.ts
-│   │   │   │   └── fixedplugin.module.ts
 │   │   │   ├── footer
 │   │   │   │   ├── footer.component.html
 │   │   │   │   ├── footer.component.ts
